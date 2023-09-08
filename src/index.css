@@ -1,0 +1,21 @@
+body  ,table , td{
+
+    background-color: #222 !important;
+}
+th {
+    color: grey;
+}
+td {
+    
+    color: white !important;
+}
+.tabs li {
+    padding: 10px 30px;
+    cursor: pointer;
+}
+.tabs li:hover {
+    background-color: #11111136;
+}
+.tabs li.active {
+    border-bottom: 2px solid White;
+}
